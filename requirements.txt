@@ -3,3 +3,6 @@ jupyter
 nltk
 spacy
 datasets
+matplotlib
+seaborn
+torch
