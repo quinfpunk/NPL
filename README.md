@@ -11,6 +11,8 @@ This repository contains reports of the NLP tp.
  - requirements.txt Requirements for python venv
  - TP_1/
     - NLP_TP_1.ipynb Tp 1 report as Jupyter Notebook
+ - tp_3/
+    - tp_3_NLP.ipynb Tp 2 report as Jupyter Notebook
 
 # Requirements
 
