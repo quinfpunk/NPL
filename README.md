@@ -13,6 +13,9 @@ This repository contains reports of the NLP tp.
     - NLP_TP_1.ipynb Tp 1 report as Jupyter Notebook
  - tp_3/
     - tp_3_NLP.ipynb Tp 2 report as Jupyter Notebook
+ - tp_4/
+    - tp_4_NLP.ipynb Glove report as Jupyter Notebook
+    - FastText.ipynb FastText report as Jupyter Notebook
 
 # Requirements
 
