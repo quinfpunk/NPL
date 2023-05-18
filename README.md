@@ -17,6 +17,10 @@ This repository contains reports of the NLP tp.
     - tp_4_NLP.ipynb Glove report as Jupyter Notebook
     - FastText.ipynb FastText report as Jupyter Notebook
 
+ - lab_01/
+    - 01 code your own RNN.ipynb RNN report as Jupyter Notebook
+    - 02 using pyTorch RNNs.ipynb RNN report as Jupyter Notebook
+
 # Requirements
 
 ```bash
