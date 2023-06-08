@@ -21,6 +21,8 @@ This repository contains reports of the NLP tp.
     - 01 code your own RNN.ipynb RNN report as Jupyter Notebook
     - 02 using pyTorch RNNs.ipynb RNN report as Jupyter Notebook
 
+ - lab_07/lab7.ipynb Jupyter Notebook TP7 report
+
 # Requirements
 
 ```bash
