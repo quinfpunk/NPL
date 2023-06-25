@@ -23,6 +23,8 @@ This repository contains reports of the NLP tp.
 
  - lab_07/lab7.ipynb Jupyter Notebook TP7 report
 
+ - lab_04/LAB04.ipynb Jupyter Notebook TP8 report
+
 # Requirements
 
 ```bash
