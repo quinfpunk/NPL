@@ -9,4 +9,4 @@ torch
 torchtext
 fasttext
 portalocker>=2.0.0
-
+bertopic
